@@ -1,0 +1,7 @@
+{
+  "name": "CreativeBj",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
